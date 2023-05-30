@@ -1,6 +1,5 @@
 H3 example for Touch
 
-(Test Reiner)
 Description: various touch solutions with SAMC21J18A
 
 History
